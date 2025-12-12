@@ -12,8 +12,9 @@ Just a simple online CV/resume I made to showcase my education, skills, and proj
 
 ## How to use
 
-[You can access my personal website, which has my portfolio in it.](https://aelsheshtawy.com/)
-
+[![Visit Website](https://img.shields.io/badge/Visit-My%20Website-blue?style=for-the-badge)](https://aelsheshtawy.com/)
+### OR
 Just open `index.html` in your browser and you're good to go. That's it.
 
+# 
 Made this while learning web development, so it's pretty straightforward.
